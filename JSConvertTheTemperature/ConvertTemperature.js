@@ -35,6 +35,7 @@ function convertTemperature(celsius){
      //create the array that will be returned
         let ans
 
+        
     //create variable to hold kelvin value
         //convert Celsius to kelvin
         // add it to the array
