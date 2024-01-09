@@ -33,15 +33,14 @@
 function convertTemperature(celsius){
 
      //create the array that will be returned
-        let ans
+        let arr
 
-        
     //create variable to hold kelvin value
         //convert Celsius to kelvin
         // add it to the array
         let kelvin;
         
-        ans.push();
+        arr.push();
 
 
 
@@ -54,7 +53,7 @@ function convertTemperature(celsius){
 
 
         //return the ans array
-        return ans;
+        return arr;
 
  }
 
