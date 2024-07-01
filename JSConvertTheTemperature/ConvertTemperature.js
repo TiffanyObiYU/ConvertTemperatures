@@ -32,28 +32,7 @@
  */
 function convertTemperature(celsius){
 
-     //create the array that will be returned
-        let arr
-
-    //create variable to hold kelvin value
-        //convert Celsius to kelvin
-        // add it to the array
-        let kelvin;
-        
-        arr.push();
-
-
-
-        //create variable to hold Fahrenheit value
-        //convert Celsius to Fahrenheit
-        // add it to the array
-       
-        fahrenheit = (1.80);
-        
-
-
-        //return the ans array
-        return arr;
+  
 
  }
 
@@ -62,3 +41,4 @@ function convertTemperature(celsius){
  // to run javascript you must first be in the correct folder
  //then you will type  " node 'nameOfFile.js' " in the console
  //Example: node ConvertTemperature.js
+

@@ -9,7 +9,7 @@ public class Main {
         System.out.println();
         System.out.println("Convert Temperatures");
 
-        for(double temp: ConvertTemperature.convertTemperature(100)){
+        for(double temp: ConvertTemperature.convertTemperature(150)){
             System.out.println(temp);
         }
     }
